@@ -19,5 +19,4 @@ I have experience using Python, Java, and C. I have also worked with databases s
 My term project is about building a platform where different AI agents can work together. The user gives the system a main goal, and the system divides it into smaller tasks. It then assigns each task to a suitable AI agent. The system also checks the progress of the tasks, handles errors, and asks the user for approval when needed. This project can make large and difficult tasks easier to manage.
 
 ## Project Website
-
-I will add the link to my Team Athena project website after it is published.
+[Team Athena Project Website](https://kanchery.github.io/GVSU-CIS641-ATHENA/)
